@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## 🌙 TMI
+## TMI
+
 - 블로그 : <https://shhouse.tistory.com> ✨
 - 이메일 : <cjswo4577@gmail.com>
 
