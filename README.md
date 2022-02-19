@@ -1,5 +1,4 @@
 언리얼 공부 중
-## TMI
 
 <!---
 RoGgu/RoGgu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
