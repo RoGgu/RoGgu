@@ -2,7 +2,7 @@
 
 <br>
 
-<img src ="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Wellcom%20My%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=32&desc=SungHun's%20GitHub%20Profile&descAlignY=51&descAlign=70"/>
+<img src ="https://capsule-render.vercel.app/api?type=waving&color=3990ff&height=200&section=header&text=Wellcom%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=32&desc=SungHun's%20GitHub%20Profile&descAlignY=51&descAlign=70"/>
   <br/>
 
 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3990ff&height=200&section=footer"/>
 
 
 
