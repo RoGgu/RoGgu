@@ -5,10 +5,6 @@
 <img src ="https://capsule-render.vercel.app/api?type=waving&color=3990ff&height=200&section=header&text=Wellcom%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=32&desc=SungHun's%20GitHub%20Profile&descAlignY=51&descAlign=70"/>
   <br/>
 
-<h1 align = "center"><b></b></h1>
-
-
-
 <br>
 <h1 align="center"><b>👨🏻‍💻 Skills</b></h1>
 
