@@ -4,6 +4,11 @@
 
 <img src ="https://capsule-render.vercel.app/api?type=waving&color=3990ff&height=200&section=header&text=Wellcom%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=32&desc=SungHun's%20GitHub%20Profile&descAlignY=51&descAlign=70"/>
   <br/>
+  
+ <br>
+<h1 align="center"><b>🙌 Introduction </b></h1>
+<p align="center"> <b> 기억에 남는 게임을 만들고 싶은 개발자 안성훈입니다.</b> </p>
+ </br>
 
 <br>
 <h1 align="center"><b>👨🏻‍💻 Skills</b></h1>
